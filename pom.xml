@@ -10,6 +10,7 @@
     <modules>
 
         <module>user-service</module>
+        <module>common-service</module>
     </modules>
 
     <packaging>pom</packaging>

@@ -1,4 +1,4 @@
-package com.liying.graducat.vo;
+package com.liying.graducat.entity;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
